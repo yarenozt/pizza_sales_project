@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Performance & Customer Analytics Dashboard
 
 ## 📊 Interactive Dashboard
-> 🔗 **Explore the Live Dashboard:** You can visit my profile [https://public.tableau.com/views/PizzaSalesAnalyticsSalesProductBasketAnalysis/PizzaSalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](#) to explore the live interactive dashboard.
+> 🔗> 🔗 **Explore the Live Dashboard:** You can visit the [Pizza Sales Analytics Dashboard on Tableau Public](https://public.tableau.com/views/PizzaSalesAnalyticsSalesProductBasketAnalysis/PizzaSalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to explore the live interactive dashboard.
 
 ---
 
