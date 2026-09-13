@@ -47,9 +47,9 @@ The 4 different `.csv` datasets used in the project were joined in Tableau to fo
 
 The relationships and cardinality structures between tables in Tableau / SQL are structured as follows:
 
-orders (1) ───────< (N) order_details : Joined on orders.order_id = order_details.order_id
-order_details (N) >─────── (1) pizzas : Joined on order_details.pizza_id = pizzas.pizza_id
-pizzas (N) >─────── (1) pizza_types   : Joined on pizzas.pizza_type_id = pizza_types.pizza_type_id
+orders (1) ───────< (N) order_details : Joined on orders.order_id = order_details.order_id  
+order_details (N) >─────── (1) pizzas : Joined on order_details.pizza_id = pizzas.pizza_id  
+pizzas (N) >─────── (1) pizza_types   : Joined on pizzas.pizza_type_id = pizza_types.pizza_type_id  
 
 ---
 
